@@ -1,4 +1,4 @@
-local
+Local
   es un repositorio pero localizado en el equipo
 remote
   res un repositorio en Github
